@@ -1,0 +1,12 @@
+* {
+    background-color: #0c1d39;
+    border-radius: 0px;
+}
+
+.headerText {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center; /* Center the text within the container */
+}
