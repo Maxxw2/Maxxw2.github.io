@@ -13,4 +13,4 @@ git commit -m "update image"
 
 echo "Pushing to main..."
 git push -u origin main
-sleep (5)
+sleep 5
